@@ -4,7 +4,7 @@ The network was trained using KITTI 2015 dataset : http://www.cvlibs.net/dataset
 The trained network was then implemented on FPGA. 
 The python and VHDL codes will be uploaded.
 
-to be complete.....
+will be updated.....
 
 
 # Reults
